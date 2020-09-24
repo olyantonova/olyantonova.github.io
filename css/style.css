@@ -1,0 +1,19 @@
+.box{
+  margin: 0 auto;
+  max-width: 1000px;
+  
+  background: whit;
+  padding: 20px;
+  font-size: 20px;
+  
+}
+.footer{
+  margin: 0 auto;
+  max-width: 1000px;
+  
+  background: whit;
+  padding: 20px;
+  position: absolute;
+  left: 44%;
+  font: Tahoma,sans-serif italic 10px;
+}
